@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OSMZHTTPServer</string>
+    <string name="connect">Start Server</string>
+    <string name="disconnect">Stop Server</string>
+    <string name="server_root_hint">Server root path</string>
+    <string name="connections_count">Connections count: \t</string>
+    <string name="fps_status">fps: %1$d</string>
+</resources>
